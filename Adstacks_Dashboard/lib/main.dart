@@ -1,5 +1,6 @@
 
-import 'package:fitness_dashboard_ui/screens/main_screen.dart';
+import 'package:adstacks_dashboard/screens/main_screen.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
